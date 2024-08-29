@@ -448,6 +448,7 @@ span#heart i{
     position: fixed; 
     left: 5px; 
     z-index: 2; 
+    border-color: #fff;
 } 
 #backtotop a { 
     background: url("../img/arrow.png") no-repeat scroll 50% 50% #1a2234; 
