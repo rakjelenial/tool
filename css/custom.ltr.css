@@ -1497,7 +1497,7 @@ span#heart i{
 **/
 
 .theme-dark .form-fieldset, .theme-dark .list-group-item{
-    border-color: rgba(101,109,119,.16);
+    border-color: #fff;
 }
 
 .theme-dark .text-body{
