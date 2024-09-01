@@ -205,7 +205,7 @@ table.settings > tbody > tr > td{
 }
 
 .theme-dark .card{
-    border-color: rgba(101,109,119,.16);
+    border-color: #fff;
 }
 
 .lang-menu{
