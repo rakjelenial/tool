@@ -450,7 +450,7 @@ span#heart i{
     z-index: 2; 
 } 
 #backtotop a { 
-    background: url("../img/arrow.png") no-repeat scroll 50% 50% #000000; 
+    background: url("../img/arrow.png") no-repeat scroll 50% 50% #1a2234; 
     border: 0 none; 
     display: block; 
     height: 40px; 
@@ -1505,7 +1505,7 @@ span#heart i{
 }
 
 .theme-dark .footer {
-    border-top: 1px solid rgba(101,109,119,.16);
+    border-top: 1px solid #fff
 }
 
 .theme-dark a.card{
